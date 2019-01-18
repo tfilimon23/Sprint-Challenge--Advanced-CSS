@@ -34,13 +34,34 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+
+Adaptive uses media queries but everything is still hard coded, whereas responsive websites ultilize the media queries along with responsive units that allow them to change as the viewport size changes.
+
+
 2. Describe what it means to be mobile first vs desktop first.
+
+
+Mobile first uses min-width and it starts from and smaller viewport and works up whereas desktop first uses max-width and goes from the biggest viewport down.
+
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+
+It does the calculation for us and gives us a 1rem/10px ratio which allows everthing to work out easeier.
+
+
 4. How would you describe preprocessing to someone new to CSS?
 
+
+Preproccesing is another language that has more capabilities and efficencies than CSS. That new language we write in gets converted back to our normal CSS language in the end with a transformer or what we call a compiler.
+
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+
+I really like the nesting capability and it looks similar to HTML. I feel like it helps to find things a little easier. I also like the importing concept and have different files. Being able to break that into smaller pieces really makes it easier to work on a project.
+I wouldnt say it gives me trouble but I'm having a hard time using mixins more than once and I know with projects this small they aren't super advantageous but I was having trouble figuring out what mixin I could create for this project. I ended up doing one for the navigation and the footer since I figured those might be repeated throughout the other pages.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
