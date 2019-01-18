@@ -63,6 +63,7 @@ I really like the nesting capability and it looks similar to HTML. I feel like i
 I wouldnt say it gives me trouble but I'm having a hard time using mixins more than once and I know with projects this small they aren't super advantageous but I was having trouble figuring out what mixin I could create for this project. I ended up doing one for the navigation and the footer since I figured those might be repeated throughout the other pages.
 
 
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
